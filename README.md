@@ -1,1 +1,3 @@
-# astar
+- program takes input of a list of 3x3 slider puzzles (in string format) and solves each possible puzzle
+- use eckelwords.txt for input
+- code contains multiple data structures, including dictionaries, sets, and lists
